@@ -5,7 +5,9 @@ Modulo: Desarrollo Web en Entorno Servidor
 
 Curso: 2º DAW Vespertino (2022-2023)
 
-Profesor: Manuel Alejandro Romero
+Centro: CPIFP Los Enlaces
+
+Profesor: Manuel Alejandro Romero [@MAlejandroR](https://github.com/MAlejandroR)
 
 Autor: Carlos Sesma Usarralde
 
@@ -13,10 +15,9 @@ Fecha: 19-1-2023
 
 ---
 
-
 ## Descripción
 
-Este proyecto consiste en la creación de un CRUD (Create, Read, Update, Delete) de una tabla de una base de datos. El proyecto se ha realizado con el lenguaje PHP y la base de datos MySQL/MariaDB.
+Este proyecto consiste en la creación de un CRUD (Create, Read, Update, Delete) de una base de datos. El proyecto se ha realizado con el lenguaje PHP y la base de datos MySQL/MariaDB.
 
 ## Requisitos
 
