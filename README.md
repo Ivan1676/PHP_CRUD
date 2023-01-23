@@ -15,6 +15,11 @@ Fecha: 19-1-2023
 
 ---
 
+- [Proyecto CRUD](#proyecto-crud)
+  - [Descripción](#descripción)
+  - [Requisitos](#requisitos)
+  - [Configuración](#configuración)
+
 ## Descripción
 
 Este proyecto consiste en la creación de un CRUD (Create, Read, Update, Delete) de una base de datos. El proyecto se ha realizado con el lenguaje PHP y la base de datos MySQL/MariaDB.
